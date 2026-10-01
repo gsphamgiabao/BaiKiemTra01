@@ -1,0 +1,9 @@
+D:\Test\BaiTapTongHop\TechMartManager\bin\Debug\TechMartManager.exe.config
+D:\Test\BaiTapTongHop\TechMartManager\bin\Debug\TechMartManager.exe
+D:\Test\BaiTapTongHop\TechMartManager\bin\Debug\TechMartManager.pdb
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.csproj.AssemblyReference.cache
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.Properties.Resources.resources
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.csproj.GenerateResource.cache
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.csproj.CoreCompileInputs.cache
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.exe
+D:\Test\BaiTapTongHop\TechMartManager\obj\Debug\TechMartManager.pdb

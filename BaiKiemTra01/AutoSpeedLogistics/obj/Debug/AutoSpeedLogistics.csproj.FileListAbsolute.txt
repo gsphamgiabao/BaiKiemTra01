@@ -1,0 +1,7 @@
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\bin\Debug\AutoSpeedLogistics.exe.config
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\bin\Debug\AutoSpeedLogistics.exe
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\bin\Debug\AutoSpeedLogistics.pdb
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\obj\Debug\AutoSpeedLogistics.csproj.AssemblyReference.cache
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\obj\Debug\AutoSpeedLogistics.csproj.CoreCompileInputs.cache
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\obj\Debug\AutoSpeedLogistics.exe
+D:\Test\BaiTapTongHop\AutoSpeedLogistics\obj\Debug\AutoSpeedLogistics.pdb
